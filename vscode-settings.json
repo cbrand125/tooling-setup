@@ -1,0 +1,25 @@
+{
+  "eslint.nodePath": "C:\\Users\\CBrand\\AppData\\Roaming\\npm",
+  "workbench.colorTheme": "Solarized Light",
+  "eslint.autoFixOnSave": false,
+  "eslint.alwaysShowStatus": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoClosingBrackets": "never",
+  "editor.autoClosingQuotes": "never",
+  "editor.formatOnSave": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.tabSize": 2,
+  "liveshare.focusBehavior": "prompt",
+  "prettier.eslintIntegration": true,
+  "prettier.trailingComma": "none",
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.pathToJest": "node_modules/.bin/jest --runInBand"
+}
